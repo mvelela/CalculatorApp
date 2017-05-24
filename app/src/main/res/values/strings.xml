@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_feedback">Give Feed back</string>
+    <string name="action_rate">Rate 5-1 stars</string>
+    <string name="message">message</string>
+    <string name="send">Send</string>
+    <string name="subject">Subject</string>
+    <string name="welcome">WELCOME</string>
+    <string name="value">Value:</string>
+    <string name="ADDITION">ADDITION</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="action_feedback">Dar opinion</string>
+    <string name="action_rate">Dale 5-1 estrellas</string>
+    <string name="action_settings">ajustes</string>
+    <string name="message">mensages</string>
+    <string name="send">mandar</string>
+    <string name="subject">tema</string>
+    <string name="value">valor</string>
+    <string name="welcome">Bien Venido</string>
+</resources>
